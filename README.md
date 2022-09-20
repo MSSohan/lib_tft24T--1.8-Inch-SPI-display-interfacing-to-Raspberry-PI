@@ -16,6 +16,8 @@ The hardware uses 5V for its Vcc power, but the logic levels are 3.3V max. (Vcc 
 
 For best screen update time, I have cranked up the SPI speed to 32,000,000 Hz, which seems to be maximum for the venerable old Rpi, but it is an option, and perhaps the Rpi2 may allow faster?
 
+Raspberry PI Datasheets  : https://docs.particle.io/assets/pdfs/raspberry-pi/datasheet.pdf
+
 You need:
 -  Raspberry Pi (duh), any version, and I used stock current Raspbian on a 256k early Rpi.
 -  python2.7
