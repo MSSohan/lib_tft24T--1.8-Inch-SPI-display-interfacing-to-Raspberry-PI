@@ -1,7 +1,7 @@
 # lib_tft24T
 2.4 inch 320x240 SPI LCD with Touchscreen - a Python Driver
 
-## May 2018 - This is no longer being maintained by the original author.
+## September 2022- This is no longer being maintained by the original author.
 ## Please feel free to fork, copy, adapt if you find it useable
 
 This module is currently popular on eBay. The marking says TJCTM24024-SPI. This is a ILI9341 driven LCD display, with XPT2046 chip for touch device, and it also includes a SD card holder. All sections are SPI.
@@ -49,5 +49,5 @@ Note that a finger does work on the touch device, but a stylus/pen works heaps b
 
 
 
-Brian
-April 2015
+Sohan
+September 2022
